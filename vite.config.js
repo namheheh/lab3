@@ -7,8 +7,8 @@ module.exports = defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        main2: resolve(__dirname, 'index2.html'),
-        main3: resolve(__dirname, 'index3.html'),
+        pagesc: resolve(__dirname, 'index2.html'),
+        page: resolve(__dirname, 'index3.html'),
 
       }
     }
