@@ -8,7 +8,7 @@ module.exports = defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         pagesc: resolve(__dirname, 'index2.html'),
-        page: resolve(__dirname, 'index3.html'),
+        page: resolve(__dirname, 'index3.html')
 
       }
     }
