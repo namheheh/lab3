@@ -9,7 +9,7 @@ module.exports = defineConfig({
         main: resolve(__dirname, 'index.html'),
         pagesc: resolve(__dirname, 'index2.html'),
         page: resolve(__dirname, 'index3.html')
-
+        style: resolve(__dirname, 'style.css')
       }
     }
   }
